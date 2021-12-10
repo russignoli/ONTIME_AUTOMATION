@@ -1,6 +1,6 @@
 #include <WiFi.h> //funcionalidades de conexão wifi, como AP e WebServer
 
-//Crendenciais do ponto de acesso
+//Crendenciais do ponto de acesso teste
 const char *ssid = "EEEEEEUUUUUUU";
 const char *senha = "123456789";
 WiFiServer server(80); //Porta padrão 80
